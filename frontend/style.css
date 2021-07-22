@@ -1,0 +1,65 @@
+body {
+  background-color: #772E25;
+  color: #EDDDD4;
+  font-family: 'Raleway';
+}
+
+.title {
+  margin: auto;
+  font-family: 'Abril Fatface';
+  font-size: 4rem;
+  text-align: center;
+  padding: .5rem;
+}
+
+section {
+  width: 80%;
+  margin: auto;
+}
+
+article {
+  background-color: #C44536;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+article li {
+  list-style-type: none;
+  padding: .5rem;
+}
+
+article li:hover {
+  color: #283D3B;
+  font-weight: 700;
+}
+
+.left {
+  float: left;
+  width: 30%;
+}
+
+.left h1 {
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+
+.name {
+  font-family: 'Abril Fatface';
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.book-title {
+  font-weight: 700;
+}
+
+.book-div {
+  padding: .75rem;
+  margin: .5rem;
+  background-color: #197278;
+  border-radius: 1rem;
+  border: 1px solid #EDDDD4;
+}
